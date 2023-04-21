@@ -3,6 +3,7 @@
 ## Unreleased
 
 - Fix: action now properly fails when schema build fails (@comp615)
+- Fix: Use negative from parameter when sending to Apollo backend (@comp615)
 
 ## 2.1.0 (October 31, 2022)
 
